@@ -1,0 +1,18 @@
+{
+  "name": "npmexercises",
+  "version": "1.0.0",
+  "description": "npm Exercises for class 9-12-19",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jerome",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-cats": "^1.1.1",
+    "chucknorris-io": "^1.0.5",
+    "dogs": "^0.2.0",
+    "robotjs": "^0.5.1",
+    "speedtest-net": "^1.5.1"
+  }
+}
