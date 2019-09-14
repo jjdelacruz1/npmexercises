@@ -9,5 +9,5 @@ client.getRandomJoke().then(function (response) {
     console.log(response.value)
 });
 
-console.log(dogs.snoopy())
+// console.log(dogs.snoopy())
 console.log(asciiCats())
